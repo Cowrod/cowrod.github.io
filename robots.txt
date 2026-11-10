@@ -1,3 +1,16 @@
+User-agent: ia_archiver
+User-agent: ia_archiver-web.archive.org
+User-agent: archive.org_bot
+User-agent: special_archiver
+User-agent: heritrix
+User-agent: Arquivo-web-crawler
+User-agent: bl.uk_lddc_bot
+User-agent: NLNZHarvester
+User-agent: ArchiveTeam
+User-agent: ArchiveBot
+User-agent: CCBot
+Disallow: /
+
 User-agent: *
 Allow: /
 
