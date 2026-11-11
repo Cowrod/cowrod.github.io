@@ -1,17 +1,35 @@
 User-agent: ia_archiver
+Disallow: /
+
 User-agent: ia_archiver-web.archive.org
+Disallow: /
+
 User-agent: archive.org_bot
+Disallow: /
+
 User-agent: special_archiver
+Disallow: /
+
 User-agent: heritrix
+Disallow: /
+
 User-agent: Arquivo-web-crawler
+Disallow: /
+
 User-agent: bl.uk_lddc_bot
+Disallow: /
+
 User-agent: NLNZHarvester
+Disallow: /
+
 User-agent: ArchiveTeam
+Disallow: /
+
 User-agent: ArchiveBot
+Disallow: /
+
 User-agent: CCBot
 Disallow: /
 
 User-agent: *
-Allow: /
-
-Sitemap: https://cow.rip/sitemap.xml
+Disallow: /
